@@ -1,3 +1,10 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1795134710
-icon.svg::CompressedTexture2D::2519944533840370985::1795052901::1795134710::1::::<><><>0<>0<>0cfccbf3e1b951af760a3c9fde9a8f62<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1795419165
+icon.svg::CompressedTexture2D::2519944533840370985::1795134914::1795134914::1::::<><><>0<>0<>0cfccbf3e1b951af760a3c9fde9a8f62<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Artfiles/::1795418298
+::res://Assets/::1795418298
+hamster_cycles.png::CompressedTexture2D::8797979342717394488::1795418298::1795418298::1::::<><><>0<>0<>24c4a3a400d746ce435a05429eab371d<>res://.godot/imported/hamster_cycles.png-cc162454466f747a6034b8ffd4fb1cf5.ctex::
+::res://Scenes/::1795419151
+player.tscn::PackedScene::7665065141589231598::1795419337::0::1::::<><><>0<>0<><>::uid://dlgh5fqbqt22s::::res://Scenes/player.gd<>uid://dxl2o1evgvo37::::res://Assets/hamster_cycles.png
+::res://Scripts/::1795400664
+player.gd::GDScript::7944204477789747276::1795419332::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
